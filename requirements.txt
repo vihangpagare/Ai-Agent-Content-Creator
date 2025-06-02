@@ -35,5 +35,5 @@ typing-extensions
 
 # Utilities
 uuid
-re2
+regex
 
